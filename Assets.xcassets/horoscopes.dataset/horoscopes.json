@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Aries",
+        "desc": "Courageous and energetic, Aries are known for their fiery nature and leadership qualities.",
+        "min_date": "March 21",
+        "max_date": "April 19",
+        "img_path": "horoscopes/aries"
+    },
+    {
+        "name": "Taurus",
+        "desc": "Reliable, patient, and practical, Taurus individuals value stability and loyalty.",
+        "min_date": "April 20",
+        "max_date": "May 20",
+        "img_path": "horoscopes/taurus"
+    },
+    {
+        "name": "Gemini",
+        "desc": "Adaptable and outgoing, Geminis are known for their versatility and lively communication.",
+        "min_date": "May 21",
+        "max_date": "June 20",
+        "img_path": "horoscopes/gemini"
+    },
+    {
+        "name": "Cancer",
+        "desc": "Emotional and nurturing, Cancer individuals are deeply connected to their family and home.",
+        "min_date": "June 21",
+        "max_date": "July 22",
+        "img_path": "horoscopes/cancer"
+    },
+    {
+        "name": "Leo",
+        "desc": "Confident and charismatic, Leos thrive in the spotlight and are known for their warm personalities.",
+        "min_date": "July 23",
+        "max_date": "August 22",
+        "img_path": "horoscopes/leo"
+    },
+    {
+        "name": "Virgo",
+        "desc": "Analytical and practical, Virgos are perfectionists who value attention to detail.",
+        "min_date": "August 23",
+        "max_date": "September 22",
+        "img_path": "horoscopes/virgo"
+    },
+    {
+        "name": "Libra",
+        "desc": "Balanced and diplomatic, Libras are peacemakers who seek harmony in all aspects of life.",
+        "min_date": "September 23",
+        "max_date": "October 22",
+        "img_path": "horoscopes/libra"
+    },
+    {
+        "name": "Scorpio",
+        "desc": "Passionate and resourceful, Scorpios are known for their intensity and strong-willed nature.",
+        "min_date": "October 23",
+        "max_date": "November 21",
+        "img_path": "horoscopes/scorpio"
+    },
+    {
+        "name": "Sagittarius",
+        "desc": "Adventurous and optimistic, Sagittarians are known for their free spirit and love for exploration.",
+        "min_date": "November 22",
+        "max_date": "December 21",
+        "img_path": "horoscopes/sagittarius"
+    },
+    {
+        "name": "Capricorn",
+        "desc": "Disciplined and responsible, Capricorns are ambitious individuals who value hard work.",
+        "min_date": "December 22",
+        "max_date": "January 19",
+        "img_path": "horoscopes/capricorn"
+    },
+    {
+        "name": "Aquarius",
+        "desc": "Innovative and independent, Aquarians are forward-thinking and value their individuality.",
+        "min_date": "January 20",
+        "max_date": "February 18",
+        "img_path": "horoscopes/aquarius"
+    },
+    {
+        "name": "Pisces",
+        "desc": "Compassionate and intuitive, Pisces are dreamers known for their creativity and empathy.",
+        "min_date": "February 19",
+        "max_date": "March 20",
+        "img_path": "horoscopes/pisces"
+    }
+]
+ 
